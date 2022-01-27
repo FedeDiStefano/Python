@@ -47,3 +47,4 @@ print(f'marca: {celular_alta_gama.marca}, color: {celular_alta_gama.color}, mode
 
 
 
+
